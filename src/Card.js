@@ -42,7 +42,7 @@ export default function MediaCard({
         <CardActionArea>
           <CardMedia
             className={classes.media}
-            image={`https://picsum.photos/id/${id}/400/200`}
+            image={`https://loremflickr.com/400/200/books?lock=${id}`}
             alt="photo"
           />
           <CardContent>
