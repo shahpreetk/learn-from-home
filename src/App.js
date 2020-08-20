@@ -46,7 +46,7 @@ class App extends Component {
             Learn From Home | Tuples Edu
           </h1>
           <p className="pa2 ma2 fw3 description-text">
-            Learn From Home is an initiative by Preet Shah. Search Education, Entertainment, Health, Productivity, Others to find relevant cards/links.
+            Learn From Home is an initiative by Tuples Edu and Preet Shah. Search Education, Entertainment, Health, Productivity, Others to find relevant cards/links.
           </p>
           <SearchBox searchChange={this.onSearchChange} />
           <p className="last-modified-para">Last Modified On: 20th May 2020</p>
