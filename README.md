@@ -7,9 +7,11 @@ Learn From Home is an initiative to provide all the free and temporarily-free re
 This idea was suggested to me by [@utk09](https://github.com/utk09)
 
 ### Website Hosted on
-[learn-from-home](learn-from-home.herokuapp.com/)
+[learn-from-home](https://learn-from-home.herokuapp.com/)
 
 ### Find me at
 Instagram - [@designer.thou.25](https://www.instagram.com/designer.thou.25/)
+
 Mail - [shahpreetk@gmail.com](mailto:shahpreetk@gmail.com)
-LinkedIn - [@shahpreetk](https://www.linkedin.com/in/shahpreetk/)
+
+LinkedIn - [@shahpreetk](https://www.linkedin.com/in/shahpreetk/)  
