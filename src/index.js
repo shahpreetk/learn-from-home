@@ -6,9 +6,7 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 import ReactGA from 'react-ga';
 ReactGA.initialize('UA-110534197-2');
-ReactGA.pageview(window.location.pathname + window.location.search);
-
-
+ReactGA.pageview(window.location.pathname);
 
 ReactDOM.render(
   <App/>,
